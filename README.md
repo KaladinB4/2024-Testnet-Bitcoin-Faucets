@@ -21,3 +21,11 @@ Feel free to contribute, I am having a very frustrating time trying to acquire a
  https://faucet.triangleplatform.com/bitcoin/testnet **Error: Expected property "1" of type Satoshi, got Number -76025**
  https://tbtc.mocacinno.com/ **DOWN**
  https://testnet-faucet.mempool.co/ **DOWN** 
+
+
+
+## ALTCOINS
+
+### LITECOIN
+---
+https://litecointf.salmen.website/ # 0.0625 / hr
